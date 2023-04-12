@@ -2,6 +2,7 @@
 #### 0
 
 Please paraphrasing the following sentence : " "
+Convert the following sentences into mathematical English sentences:
 
 ##### 1
 
